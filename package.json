@@ -1,0 +1,16 @@
+{
+  "name": "coursera-react-course-json-server",
+  "version": "1.0.0",
+  "author": {
+    "name": "Harerimana Egide",
+    "email": "egideharerimana085@gmail.com",
+    "url": "https://egide.netlify.app"
+  },
+  "description": "json server",
+  "main": "index.js",
+  "repository": "https://github.com/degide/coursera-react-course-json-server.git",
+  "dependencies": {
+  },
+  "license": "MIT",
+  "private": true
+}
