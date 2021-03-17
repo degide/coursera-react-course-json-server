@@ -6,10 +6,15 @@
     "email": "egideharerimana085@gmail.com",
     "url": "https://egide.netlify.app"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "description": "json server",
   "main": "index.js",
   "repository": "https://github.com/degide/coursera-react-course-json-server.git",
   "dependencies": {
+    "json-server": "0.16.3",
+    "express": "4.17.1"
   },
   "license": "MIT",
   "private": true
